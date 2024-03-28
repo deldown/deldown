@@ -1,7 +1,7 @@
 deldown Shredder
 
 deldown Shredder ist ein 100% Open Source Projekt es kann jeder
-für seinen Projekte oder andere benutzen solange man einen 
+für seine Projekte oder andere benutzen solange man einen 
 angabe hat wer es Programmiert hat oder wo man den haupt code
 her hat
 
